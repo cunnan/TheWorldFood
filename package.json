@@ -1,0 +1,30 @@
+{
+  "name": "theworldfood",
+  "version": "1.0.0",
+  "description": "You can learn to cook delicious food here",
+  "main": "main.js",
+  "scripts": {
+    "test": "node ./test.js",
+    "start":"node ./main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cunnan/TheWorldFood.git"
+  },
+  "keywords": [
+    "html",
+    "css",
+    "js",
+    "scss",
+    "webpack"
+  ],
+  "author": "cunnan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cunnan/TheWorldFood/issues"
+  },
+  "homepage": "https://github.com/cunnan/TheWorldFood#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
